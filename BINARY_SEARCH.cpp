@@ -30,6 +30,10 @@ int main()
   cin>>n;
   int arr[1000];
   cout<<"enter the elements";
+  /*for(int i=0;i<n;i++)
+  {
+    cin>>arr[i];
+  }*/
   for(int i=0;i<n;i++)
   {
     cin>>arr[i];
